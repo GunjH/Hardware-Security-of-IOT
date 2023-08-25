@@ -1,0 +1,1 @@
+First run the mux_4_1.v file then the comb.v file and then run the combtest file.
